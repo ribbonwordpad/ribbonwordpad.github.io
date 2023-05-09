@@ -17,11 +17,11 @@
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #0096FF;
-  color: black;
+  color: white;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #0096FF;
-  color: white;
+  background-color: #FFFFFF;
+  color: black;
 }
